@@ -1,4 +1,4 @@
-# StudyAura 🧠
+# StudyAura 
 ### AI-Powered Focus Tracker for Students
 
 > Built by **Palli Rithika Reddy**
@@ -7,7 +7,7 @@ StudyAura is an iOS app that helps students stay focused while studying using re
 
 ---
 
-## 📱 Screenshots
+##  Screenshots
 
 | Home Screen | Live Session | Away Alert |
 |---|---|---|
@@ -23,53 +23,53 @@ StudyAura is an iOS app that helps students stay focused while studying using re
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🎯 Real-Time Focus Tracking
+###  Real-Time Focus Tracking
 - Uses Apple's **Vision Framework** to detect facial landmarks
-- Detects **Focused 🎯**, **Drowsy 😴**, and **Away 👻** states live
+- Detects **Focused **, **Drowsy **, and **Away ** states live
 - Live colour-coded timeline updated every second
 
-### 🚨 Smart Alerts
+###  Smart Alerts
 - **3x haptic buzz** when drowsy detected
 - **2x haptic buzz** when you leave the frame
 - On-screen alert banner with message
 
-### 🎵 Ambient Sound Player
-- **Rain 🌧️** — Calming rain for deep focus
-- **Ocean Waves 🌊** — Relaxing wave sounds
-- **Forest Birds 🌲** — Nature sounds
-- **Brown Noise 🟤** — Deep rumble for concentration
-- **Cafe ☕** — Coffee shop background chatter
+###  Ambient Sound Player
+- **Rain ** — Calming rain for deep focus
+- **Ocean Waves ** — Relaxing wave sounds
+- **Forest Birds ** — Nature sounds
+- **Brown Noise ** — Deep rumble for concentration
+- **Cafe  ** — Coffee shop background chatter
 - Loops infinitely until stopped
 
-### 📋 Smart Task Management
+### Smart Task Management
 - Add tasks with subject + duration
 - Tracks **remaining time** — resume exactly where you left off
 - Progress bar shows completion
 - Sessions history per task
 
-### 📅 Timetable Builder
+###  Timetable Builder
 - Add multiple subjects with durations
 - **Start Full Session** — goes through all subjects one by one
 - Shows total study time
 
-### 📊 Session Summary
+###  Session Summary
 - Animated **Focus Score** (0–100)
 - Focused / Drowsy / Away breakdown
 - Colour-coded **Focus Timeline** chart
-- Streak tracker 🔥
+- Streak tracker 
 
-### 📈 Weekly Insights Dashboard
+###  Weekly Insights Dashboard
 - Average focus score across all sessions
 - Total hours studied + session count
 - Session history bar chart
-- Best session of the week 🏆
+- Best session of the week 
 - **Personalized tips** based on your patterns
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Usage |
 |---|---|
@@ -81,7 +81,7 @@ StudyAura is an iOS app that helps students stay focused while studying using re
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 StudyAura/
 ├── EmotionModel.swift          # Emotion states + session data models
 ├── StudyStore.swift            # App state management + persistence
@@ -98,7 +98,7 @@ StudyAura/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo:
 ```bash
@@ -115,23 +115,23 @@ git clone https://github.com/rithikareddy714-bit/StudyAura.git
 
 6. Press **▶ Run**
 
-> ⚠️ Must run on a real iPhone — camera tracking doesn't work on simulator
+>  Must run on a real iPhone — camera tracking doesn't work on simulator
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 Front Camera → Vision Framework → Eye Openness + Head Yaw
 ↓
 Emotion Classification Engine
 ↓
-Focused 🎯 / Drowsy 😴 / Away 👻
+Focused  / Drowsy  / Away 
 ↓
 Haptic Alert + Banner + Timeline + Session Data
 ↓
 Summary Report + Weekly Insights
 ---
 
-## 🔮 Future Plans
+##  Future Plans
 
 - [ ] Pomodoro timer mode
 - [ ] iCloud sync
@@ -142,10 +142,10 @@ Summary Report + Weekly Insights
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Palli Rithika Reddy**
-iOS Developer | Student
+ Student
 
 Built  using SwiftUI + Apple Vision Framework
 
@@ -153,6 +153,6 @@ Built  using SwiftUI + Apple Vision Framework
 
 ---
 
-## 📄 License
+##  License
 
 This project is built for educational purposes.
