@@ -155,6 +155,6 @@ Built  using SwiftUI + Apple Vision Framework
 
 ---
 
-##  License
+## License
 
-This project is built for educational purposes.
+This project is licensed under the MIT License.
