@@ -36,11 +36,11 @@ StudyAura is an iOS app that helps students stay focused while studying using re
 - On-screen alert banner with message
 
 ###  Ambient Sound Player
-- **Rain ** — Calming rain for deep focus
-- **Ocean Waves ** — Relaxing wave sounds
-- **Forest Birds ** — Nature sounds
-- **Brown Noise ** — Deep rumble for concentration
-- **Cafe  ** — Coffee shop background chatter
+- Rain  — Calming rain for deep focus
+- Ocean Waves  — Relaxing wave sounds
+- Forest Birds  — Nature sounds
+- Brown Noise  — Deep rumble for concentration
+- Cafe   — Coffee shop background chatter
 - Loops infinitely until stopped
 
 ### Smart Task Management
