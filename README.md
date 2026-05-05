@@ -6,7 +6,9 @@
 StudyAura is an iOS app that helps students stay focused while studying using real-time facial emotion detection. It tracks your focus, alerts you when you're drowsy or distracted, and gives you detailed session reports.
 
 ---
+##  Demo
 
+[![Watch Demo](home.png)](https://drive.google.com/file/d/1QcBY7nasA2Csu4mQeRdNrALizlJUV_O_/view?usp=sharing)
 ##  Screenshots
 
 | Home Screen | Live Session | Away Alert |
