@@ -135,12 +135,12 @@ Summary Report + Weekly Insights
 
 ##  Future Plans
 
-- [ ] Pomodoro timer mode
-- [ ] iCloud sync
-- [ ] Study leaderboard with friends
-- [ ] Apple Watch companion
-- [ ] Export PDF study report
-- [ ] Siri shortcuts
+-  Pomodoro timer mode
+-  iCloud sync
+-  Study leaderboard with friends
+-  Apple Watch companion
+-  Export PDF study report
+-  Siri shortcuts
 
 ---
 
